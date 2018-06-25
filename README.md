@@ -43,7 +43,7 @@ $ cat aelfjj1or81uegj9ea8z31zro.html
 |[Heroku](#heroku)|Yes|`No such app`||
 |[JetBrains](#jetbrains)|Yes|`is not a registered InCloud YouTrack`||
 |[Mashery](#mashery)|No|`Unrecognized domain`|https://hackerone.com/reports/275714|
-|[Microsoft Azure](#microsoft-azure)|Yes|||
+|[Microsoft Azure](#microsoft-azure)|Yes||https://hackerone.com/reports/325336|
 |[Sendgrid](#sendgrid)|No|||
 |[Shopify](#shopify)|Yes|`Sorry, this shop is currently unavailable.`||
 |[Squarespace](#squarespace)|No|||
